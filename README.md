@@ -19,8 +19,8 @@ This repository contains an MCP server that searches PubMed for article abstract
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/codingaslu/pubmed-mcp-server.git
-   cd pubmed-mcp-server
+   git clone PubMed-MCP-Server.git
+   cd PubMed-MCP-Server
    ```
 
 2. **Install Dependencies:**
