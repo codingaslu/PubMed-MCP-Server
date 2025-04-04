@@ -19,7 +19,7 @@ This repository contains an MCP server that searches PubMed for article abstract
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/pubmed-mcp-server.git
+   git clone https://github.com/codingaslu/pubmed-mcp-server.git
    cd pubmed-mcp-server
    ```
 
