@@ -57,10 +57,10 @@ To configure your MCP client to connect to the PubMed MCP server, create or upda
 {
   "mcpServers": {
     "pubmed": {
-      "command": "C:/Users/aiany/.local/bin/uv",
+      "command": "C:/Users/codingaslu/.local/bin/uv",
       "args": [
         "--directory",
-        "C:/Users/aiany/OneDrive/Desktop/YT Video/pubmed-mcp-server",
+        "C:/Users/codingaslu/OneDrive/Desktop/pubmed-mcp-server",
         "run",
         "main.py"
       ]
